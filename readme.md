@@ -40,7 +40,7 @@ There are 4 commands needed to deploy to Azure
 2. `azure-demeteorizer build`
 3. `azure-demeteorizer install`
 4. `azure-demeteorizer zip`
-5. `azure-demeteorizer deploy -s [sitename] -u [username] - p [password]`
+5. `azure-demeteorizer deploy -s [sitename] -u [username] -p [password]`
     - sitename: the name of your App Service App.
     - username: username for your site's [deployment credentials].
     - password: password for your site's [deployment credentials].
